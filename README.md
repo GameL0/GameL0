@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Arthur Melo Gusmão!
 
-Sou estudante de **Ciências da Computação** na UFAL e apaixonado por tecnologia que resolve problemas do mundo real.  
+Sou estudante de **Ciências da Computação** na UFAL e apaixonado por tecnologias que resolvem problemas do mundo real.  
 Tenho experiência em desenvolvimento de software, com foco em criar soluções eficientes e inovadoras.
 
 ---
