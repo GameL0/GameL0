@@ -9,7 +9,7 @@ Tenho experiência em desenvolvimento de software, com foco em criar soluções 
 
 - 🎓 **Universidade:** UFAL – Ciências da Computação  
 - 💻 **Linguagens:** Python, C++, C  
-- 🛠️ **Conhecimentos:** Docker, Django, SQL, Excel (básico)  
+- 🛠️ **Conhecimentos:** Docker, Django, SQL, Excel  
 - 🤖 **Interesses:** Inteligência Artificial, Análise de Dados, Fintechs e Gestão de Empresas
 
 ---
